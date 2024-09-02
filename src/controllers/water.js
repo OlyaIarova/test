@@ -7,6 +7,7 @@ import {
   fetchMonthlyService,
 } from '../services/water.js';
 
+//dayNormalWaterSchema
 
 //додавання нового запису про спожиту воду
 export const addWaterController = async (req, res) => {
